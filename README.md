@@ -107,7 +107,6 @@
 </head>
 <body>
     <div class="image-text-container">
-        <!-- Первый блок -->
         <div class="item">
             <img src="https://i.pinimg.com/736x/33/51/11/335111d019eebd4624fb96ec3c5212f3.jpg" alt="Описание" style="width: 300px; height: auto;"/>
             <div class="text-content">
@@ -122,8 +121,6 @@
                 </ul>
             </div>
         </div>
-        
-        <!-- Второй блок -->
         <div class="item">
             <img src="https://i.pinimg.com/736x/1b/b4/55/1bb455675c078a24bfb4d6e508d9f12a.jpg" alt="Описание" style="width: 300px; height: auto;"/>
             <div class="text-content">
@@ -138,8 +135,6 @@
                 </ul>
             </div>
         </div>
-        
-        <!-- Третий блок -->
         <div class="item">
             <img src="https://sun9-28.userapi.com/impf/c849536/v849536484/134ff4/8mH0bhiWOho.jpg?size=411x604&quality=96&sign=f69df64164307eaeb7684e71d107934f&type=album" alt="описание"style="width: 300px; height: auto;"/>
             <div class="text-content">
@@ -200,4 +195,6 @@
       <a href="tel:+79379724672">Позвонить: +7 (937) 972-46-72</a>
 </body>
 </html>
+       
+   
        
