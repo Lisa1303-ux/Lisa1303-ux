@@ -16,7 +16,6 @@
                   <li><a href="#contact">Контакты</a></li>
             </ul>
         </nav>
-        
         <p>Татуировки — это не только самовыражение, но и полноценное искусство, где графический дизайн соединяет традиционные техники с цифровыми методами. Они передают эмоции, создают уникальные образы и становятся частью идентичности человека.</p>
         <p>Океан эскизов от омских мастеров высшего уровня. Здесь живут профи - находите своего художника, изучайте студии, сохраняйте контакты и вдохновляйтесь работами.</p>
         <div class="highlight">
@@ -26,48 +25,6 @@
         <h2>Галерея</h2>
         </center>
         <p>В этом разделе указаны лучшие студии с работами мастеров в городе Омск, по рейтингу популярности.</p>
-     
-      
-    <style>
-        .image-text-container {
-            display: flex;
-            flex-direction: column;
-            gap: 30px;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        
-        .item {
-            display: flex;
-            gap: 20px;
-            align-items: flex-start;
-        }
-        
-        .item img {
-            width: 200px;
-            height: 200px;
-            object-fit: cover;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        }
-        
-        .text-content {
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-        }
-        
-        @media (max-width: 600px) {
-            .item {
-                flex-direction: column;
-            }
-            .item img {
-                width: 100%;
-            }
-        }
-    </style>
 </head>
 <body>
     <div class="image-text-container">
